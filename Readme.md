@@ -36,5 +36,3 @@ Hello! I'm korean Junior White **hacker**!
 <br>
 
 For a better world.
-
-<img style="position:relatvie; right:50em; bottom:50em; " src="" alt="안녕하세요"/>
