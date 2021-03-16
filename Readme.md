@@ -7,11 +7,11 @@ Hello! I'm korean Junior White **hacker**!
 
 <span style="font-family: 'Noto Serif Kr', serif;">
 
-> cskhw를 기록하는 위키입니다.
+> cskhw's github
 
 <span stype="color:blue;">한 마디</span><br><br>
 
-언제쯤 프로가 될 수 있을까요
+> "프로"그래머인가 "프로"코더인가
 
 <br>
 ## 활동
