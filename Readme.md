@@ -35,6 +35,6 @@ Hello! I'm korean Junior White **hacker**!
 백엔드: node.js, django, php<br>
 앱: 안드로이드, 코틀린
 <br>
-을 했으나 과연 남 것은,,,
+을 했으나 과연 남은 것은,,,
 
 For a better world.
