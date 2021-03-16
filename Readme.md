@@ -10,8 +10,9 @@ Hello! I'm korean Junior White **hacker**!
 > cskhw를 기록하는 위키입니다.
 
 <span stype="color:blue;">한 마디</span><br><br>
-절차형 -> 객체형 -> 함수형 프로그래밍 -> ?<br>
-늘 새롭게 쏟아지는 패러다임이 궁금한 개발자입니다.
+
+언제쯤 프로가 될 수 있을까요
+
 <br>
 ## 활동
 
